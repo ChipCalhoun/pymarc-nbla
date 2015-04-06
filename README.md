@@ -1,2 +1,2 @@
 # pymarc-nbla
-Python files for reading MARC records from our Horizon ILS.
+Python files for processing MARC records.
